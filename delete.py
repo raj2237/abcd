@@ -1,0 +1,1 @@
+a = "useless Compiler const"
